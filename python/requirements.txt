@@ -1,0 +1,13 @@
+certifi==2023.11.17
+distlib==0.3.7
+dnspython==2.7.0
+filelock==3.12.4
+peewee==3.17.0
+pipenv==2023.11.15
+platformdirs==3.11.0
+pymongo==4.10.1
+PyMySQL==1.1.1
+pytz==2023.3.post1
+setuptools==69.0.2
+virtualenv==20.25.0
+webencodings==0.5.1
