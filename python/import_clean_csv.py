@@ -378,8 +378,8 @@ def import_csv(csv_file_path, db_types='csv'):
     """
     valid_db_types = {'mysql', 'mongodb', 'csv', 'all'}
     invalid_db_type_provided = False
-    mysql_success = True
-    mongodb_success = True
+    mysql_success = False
+    mongodb_success = False
     already_cleaned = False
 
     try:
